@@ -1,3 +1,8 @@
+sjahduefujhdjncjcbnvj
+jhfjheufhmznxfj
+fyudufyujcjh
+Make some changes to the text (e.g. adding some new lines, or changing some words).
+
 # Please enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.
 # On branch master
