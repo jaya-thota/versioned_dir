@@ -1,4 +1,6 @@
-sjahduefujhdjncjcbnvj
+http://chryswoods.com/beginning_git/diffing.html
+http://chryswoods.com/beginning_git/diffing.html
+http://chryswoods.com/beginning_git/diffing.html
 jhfjheufhmznxfj
 fyudufyujcjh
 Make some changes to the text (e.g. adding some new lines, or changing some words).
@@ -14,3 +16,4 @@ Make some changes to the text (e.g. adding some new lines, or changing some word
 #
 #   new file:   SOMETHING.md
 #
+
